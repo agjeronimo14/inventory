@@ -1,0 +1,7 @@
+name = "inventory-pos-saas"
+compatibility_date = "2026-02-08"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "inventory_pos_db"
+database_id = "7c55969f-051a-4d46-870a-e7f6c8c320d6"
